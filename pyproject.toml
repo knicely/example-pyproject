@@ -1,6 +1,8 @@
 [project]
 name = "example-pyproject"
 version = "0.0.1a1"
+description = "Example python project for experience."
+readme = "README.md"
 license = "MIT"
 license-file = "LICENSE.txt"
 authors = [
