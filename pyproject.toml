@@ -11,7 +11,7 @@ authors = [
 maintainer = [
     {name = "", email = ""}
 ]
-requires-python = ">=3.12"
+requires-python = ">=3.13"
 because = "why?"
 
 [build-system]
